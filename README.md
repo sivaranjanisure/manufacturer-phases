@@ -1,3 +1,19 @@
+# Landing Page
+![image](https://github.com/sivaranjanisure/manufacturer-phases/assets/150911453/374fcf3d-39b7-4bfa-9b7c-9f4c141d2d98)
+
+
+# Plan List Page
+![image](https://github.com/sivaranjanisure/manufacturer-phases/assets/150911453/d978ec8b-8544-4cd2-8e76-a7ee7d9328af)
+
+
+# View/Edit Page
+![image](https://github.com/sivaranjanisure/manufacturer-phases/assets/150911453/480d579a-ecee-4d16-8ae6-d1bcf591d3b6)
+
+# Details Page
+![image](https://github.com/sivaranjanisure/manufacturer-phases/assets/150911453/67d7e049-fd79-470f-8dce-8e83ec31b411)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
