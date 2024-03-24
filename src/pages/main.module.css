@@ -1,0 +1,147 @@
+.main {
+  display: flex;
+}
+.landing {
+  width: 50%;
+  height: 100vh;
+  background-image: url("../assets/banner.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+.content {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 32px;
+}
+.content p {
+  font-size: 40px;
+  font-weight: 700;
+}
+.startBtn {
+  background-image: linear-gradient(
+    to right,
+    rgb(90, 241, 216),
+    rgb(143, 152, 153)
+  );
+  padding: 10px;
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 5px;
+}
+.startBtn:hover,
+.button:hover,
+.deleteBtn:hover,
+.editBtn:hover {
+  transform: scale(1.1);
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.button {
+  background-color: #91db73;
+  padding: 10px;
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 5px;
+  min-width: 120px;
+  margin: 10px;
+}
+.groupBtn {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.editBtn {
+  background-color: rgb(169, 206, 240);
+  padding: 10px;
+  font-size: 12px;
+  font-weight: 600;
+  border-radius: 5px;
+  min-width: 120px;
+  margin: 10px;
+}
+
+.deleteBtn {
+  background-color: rgb(241, 149, 154);
+  padding: 10px;
+  font-size: 12px;
+  font-weight: 600;
+  border-radius: 5px;
+  min-width: 120px;
+  margin: 10px;
+}
+
+.backButton {
+  background-color: rgb(219, 230, 240);
+  padding: 10px;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 5px;
+  width: 120px;
+  margin: 10px;
+}
+
+.cardsWrap {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+}
+.card {
+  background-image: linear-gradient(
+    to right,
+    rgb(90, 155, 241),
+    rgb(177, 198, 201)
+  );
+  height: 150px;
+  width: 350px;
+  border-radius: 8px;
+  margin: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.card:hover {
+  transform: scale(1.01);
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.cardText {
+  font-size: 18px;
+  font-weight: 600;
+  word-break: break-all;
+}
+.title {
+  font-size: 40px;
+  font-weight: 700;
+}
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 32px;
+}
+.details {
+  display: flex;
+  flex-direction: column;
+}
+.detailsContent {
+  margin-top: 80px;
+  display: flex;
+  justify-content: space-around;
+  gap: 40px;
+}
+
+img {
+  width: 400px;
+  height: 400px;
+}
+.detailsContentWrap {
+  max-width: 700px;
+  text-align: left;
+}
+h3 {
+  text-align: center;
+}

@@ -1,0 +1,631 @@
+[
+  {
+    "nodes": [
+      {
+        "id": "start",
+        "data": {
+          "label": "Start"
+        },
+        "position": {
+          "x": -45,
+          "y": 570
+        },
+        "type": "start",
+        "width": 200,
+        "height": 56,
+        "selected": false,
+        "positionAbsolute": {
+          "x": -45,
+          "y": 570
+        },
+        "dragging": false
+      },
+      {
+        "id": "e2c682af-30bc-48e4-9ae3-5a63774da567",
+        "data": {
+          "label": "End"
+        },
+        "position": {
+          "x": 1935,
+          "y": 210
+        },
+        "type": "end",
+        "width": 200,
+        "height": 56,
+        "selected": false,
+        "positionAbsolute": {
+          "x": 1935,
+          "y": 210
+        },
+        "dragging": false
+      },
+      {
+        "id": "e7f7ce5c-46b4-470a-a827-3cb950b52e7e",
+        "data": {
+          "label": "Single Node",
+          "value": "Internal"
+        },
+        "position": {
+          "x": 915,
+          "y": 240
+        },
+        "type": "SingleNode",
+        "width": 200,
+        "height": 60,
+        "selected": false,
+        "positionAbsolute": {
+          "x": 915,
+          "y": 240
+        },
+        "dragging": false
+      },
+      {
+        "id": "1a3f5a26-d0f6-45d7-9de1-b52aae7d4ed2",
+        "data": {
+          "label": "Single Node",
+          "value": "PRD"
+        },
+        "position": {
+          "x": 915,
+          "y": 345
+        },
+        "type": "SingleNode",
+        "width": 200,
+        "height": 60,
+        "selected": false,
+        "positionAbsolute": {
+          "x": 915,
+          "y": 345
+        },
+        "dragging": false
+      },
+      {
+        "id": "041c29a5-63e8-49da-9f36-8f5487206965",
+        "data": {
+          "label": "Single Node",
+          "value": "Specs"
+        },
+        "position": {
+          "x": 915,
+          "y": 420
+        },
+        "type": "SingleNode",
+        "width": 200,
+        "height": 60,
+        "selected": false,
+        "positionAbsolute": {
+          "x": 915,
+          "y": 420
+        },
+        "dragging": false
+      },
+      {
+        "id": "a9a82355-f8bc-4105-a556-d8ee716068fe",
+        "data": {
+          "label": "Single Node",
+          "value": "Hardware"
+        },
+        "position": {
+          "x": 915,
+          "y": 510
+        },
+        "type": "SingleNode",
+        "width": 200,
+        "height": 60,
+        "selected": false,
+        "positionAbsolute": {
+          "x": 915,
+          "y": 510
+        },
+        "dragging": false
+      },
+      {
+        "id": "946f7154-0cf4-4089-ac25-c7d087c1d773",
+        "data": {
+          "label": "Single Node",
+          "value": "Software"
+        },
+        "position": {
+          "x": 915,
+          "y": 585
+        },
+        "type": "SingleNode",
+        "width": 200,
+        "height": 60,
+        "selected": false,
+        "positionAbsolute": {
+          "x": 915,
+          "y": 585
+        },
+        "dragging": false
+      },
+      {
+        "id": "a57c5f93-43ce-42a3-b613-af405e4ca30c",
+        "data": {
+          "label": "Single Node",
+          "value": "Material"
+        },
+        "position": {
+          "x": 915,
+          "y": 690
+        },
+        "type": "SingleNode",
+        "width": 200,
+        "height": 60,
+        "selected": false,
+        "positionAbsolute": {
+          "x": 915,
+          "y": 690
+        },
+        "dragging": false
+      },
+      {
+        "id": "8cfec4b0-4eba-4529-93a1-3807274e7382",
+        "data": {
+          "label": "Single Node",
+          "value": "Production"
+        },
+        "position": {
+          "x": 915,
+          "y": 765
+        },
+        "type": "SingleNode",
+        "width": 200,
+        "height": 60,
+        "selected": false,
+        "positionAbsolute": {
+          "x": 915,
+          "y": 765
+        },
+        "dragging": false
+      },
+      {
+        "id": "5b44b452-e207-495c-8c2f-4edad68c4290",
+        "data": {
+          "label": "Multi Node",
+          "value": "External"
+        },
+        "position": {
+          "x": 915,
+          "y": 165
+        },
+        "type": "MultiNode",
+        "width": 200,
+        "height": 60,
+        "selected": false,
+        "positionAbsolute": {
+          "x": 915,
+          "y": 165
+        },
+        "dragging": false
+      },
+      {
+        "id": "3168a34b-a92d-4c51-86a9-d97385c4c3da",
+        "data": {
+          "label": "Single Node",
+          "value": "Dealearship"
+        },
+        "position": {
+          "x": 915,
+          "y": 960
+        },
+        "type": "SingleNode",
+        "width": 200,
+        "height": 60,
+        "selected": false,
+        "positionAbsolute": {
+          "x": 915,
+          "y": 960
+        },
+        "dragging": false
+      },
+      {
+        "id": "05ebd88e-f2a7-4c6b-922f-644df85c241c",
+        "data": {
+          "label": "Single Node",
+          "value": "Online"
+        },
+        "position": {
+          "x": 915,
+          "y": 885
+        },
+        "type": "SingleNode",
+        "width": 200,
+        "height": 60,
+        "selected": false,
+        "positionAbsolute": {
+          "x": 915,
+          "y": 885
+        },
+        "dragging": false
+      },
+      {
+        "id": "dcfbae6f-c68f-4ba1-909d-cb6f07226540",
+        "data": {
+          "label": "Multi Node",
+          "value": "Designing"
+        },
+        "position": {
+          "x": 435,
+          "y": 570
+        },
+        "type": "MultiNode",
+        "width": 200,
+        "height": 60,
+        "selected": false,
+        "positionAbsolute": {
+          "x": 435,
+          "y": 570
+        },
+        "dragging": false
+      },
+      {
+        "id": "58c4aace-f9f0-4cd8-a309-9a7d2781bbcb",
+        "data": {
+          "label": "Multi Node",
+          "value": "Research"
+        },
+        "position": {
+          "x": 435,
+          "y": 270
+        },
+        "type": "MultiNode",
+        "width": 200,
+        "height": 60,
+        "selected": false,
+        "positionAbsolute": {
+          "x": 435,
+          "y": 270
+        },
+        "dragging": false
+      },
+      {
+        "id": "5575aec1-e708-474f-ba3c-f3e6fbffde7f",
+        "data": {
+          "label": "Multi Node",
+          "value": "Manufacturing"
+        },
+        "position": {
+          "x": 435,
+          "y": 720
+        },
+        "type": "MultiNode",
+        "width": 200,
+        "height": 60,
+        "selected": false,
+        "positionAbsolute": {
+          "x": 435,
+          "y": 720
+        },
+        "dragging": false
+      },
+      {
+        "id": "302a5f01-c000-4cc8-b692-7bfddd779219",
+        "data": {
+          "label": "Multi Node",
+          "value": "Planning"
+        },
+        "position": {
+          "x": 435,
+          "y": 405
+        },
+        "type": "MultiNode",
+        "width": 200,
+        "height": 60,
+        "selected": false,
+        "positionAbsolute": {
+          "x": 435,
+          "y": 405
+        },
+        "dragging": false
+      },
+      {
+        "id": "42ffad7c-84ee-4027-96ef-43e8a1ef755a",
+        "data": {
+          "label": "Multi Node",
+          "value": "Sales/Marketting"
+        },
+        "position": {
+          "x": 435,
+          "y": 915
+        },
+        "type": "MultiNode",
+        "width": 200,
+        "height": 60,
+        "selected": false,
+        "positionAbsolute": {
+          "x": 435,
+          "y": 915
+        },
+        "dragging": false
+      },
+      {
+        "id": "5dd47699-f114-4b03-a86c-7b633d3ee15e",
+        "data": {
+          "label": "Single Node",
+          "value": "B2B"
+        },
+        "position": {
+          "x": 1245,
+          "y": 330
+        },
+        "type": "SingleNode",
+        "width": 200,
+        "height": 60,
+        "selected": false,
+        "positionAbsolute": {
+          "x": 1245,
+          "y": 330
+        },
+        "dragging": false
+      },
+      {
+        "id": "ca2220b0-6f4b-4b58-a623-048d79b123f4",
+        "data": {
+          "label": "Multi Node",
+          "value": "B2C"
+        },
+        "position": {
+          "x": 1245,
+          "y": 165
+        },
+        "type": "MultiNode",
+        "width": 200,
+        "height": 60,
+        "selected": false,
+        "positionAbsolute": {
+          "x": 1245,
+          "y": 165
+        },
+        "dragging": false
+      },
+      {
+        "id": "e59c5a31-65b9-4266-8e66-d665b8a73b0d",
+        "data": {
+          "label": "Multi Node",
+          "value": "Health"
+        },
+        "position": {
+          "x": 1560,
+          "y": 375
+        },
+        "type": "MultiNode",
+        "width": 200,
+        "height": 60,
+        "selected": true,
+        "positionAbsolute": {
+          "x": 1560,
+          "y": 375
+        },
+        "dragging": false
+      },
+      {
+        "id": "29a2ddec-a645-44bc-8ece-65045fdee14e",
+        "data": {
+          "label": "Multi Node",
+          "value": "Online"
+        },
+        "position": {
+          "x": 1560,
+          "y": 45
+        },
+        "type": "MultiNode",
+        "width": 200,
+        "height": 60,
+        "selected": false,
+        "positionAbsolute": {
+          "x": 1560,
+          "y": 45
+        },
+        "dragging": false
+      },
+      {
+        "id": "f3a072c2-df39-40f1-b9ea-cb08c43efba9",
+        "data": {
+          "label": "Single Node",
+          "value": "Interview"
+        },
+        "position": {
+          "x": 1560,
+          "y": 165
+        },
+        "type": "SingleNode",
+        "width": 200,
+        "height": 60,
+        "selected": false,
+        "positionAbsolute": {
+          "x": 1560,
+          "y": 165
+        },
+        "dragging": false
+      },
+      {
+        "id": "f36d230c-4c92-489a-82da-36666bdfebda",
+        "data": {
+          "label": "Single Node",
+          "value": "Public Data"
+        },
+        "position": {
+          "x": 1560,
+          "y": 270
+        },
+        "type": "SingleNode",
+        "width": 200,
+        "height": 60,
+        "selected": false,
+        "positionAbsolute": {
+          "x": 1560,
+          "y": 270
+        },
+        "dragging": false
+      }
+    ],
+    "edges": [
+      {
+        "source": "start",
+        "sourceHandle": null,
+        "target": "58c4aace-f9f0-4cd8-a309-9a7d2781bbcb",
+        "targetHandle": null,
+        "id": "reactflow__edge-start-58c4aace-f9f0-4cd8-a309-9a7d2781bbcb"
+      },
+      {
+        "source": "start",
+        "sourceHandle": null,
+        "target": "302a5f01-c000-4cc8-b692-7bfddd779219",
+        "targetHandle": null,
+        "id": "reactflow__edge-start-302a5f01-c000-4cc8-b692-7bfddd779219"
+      },
+      {
+        "source": "start",
+        "sourceHandle": null,
+        "target": "dcfbae6f-c68f-4ba1-909d-cb6f07226540",
+        "targetHandle": null,
+        "id": "reactflow__edge-start-dcfbae6f-c68f-4ba1-909d-cb6f07226540",
+        "selected": false
+      },
+      {
+        "source": "58c4aace-f9f0-4cd8-a309-9a7d2781bbcb",
+        "sourceHandle": null,
+        "target": "5b44b452-e207-495c-8c2f-4edad68c4290",
+        "targetHandle": null,
+        "id": "reactflow__edge-58c4aace-f9f0-4cd8-a309-9a7d2781bbcb-5b44b452-e207-495c-8c2f-4edad68c4290"
+      },
+      {
+        "source": "58c4aace-f9f0-4cd8-a309-9a7d2781bbcb",
+        "sourceHandle": null,
+        "target": "e7f7ce5c-46b4-470a-a827-3cb950b52e7e",
+        "targetHandle": null,
+        "id": "reactflow__edge-58c4aace-f9f0-4cd8-a309-9a7d2781bbcb-e7f7ce5c-46b4-470a-a827-3cb950b52e7e"
+      },
+      {
+        "source": "302a5f01-c000-4cc8-b692-7bfddd779219",
+        "sourceHandle": null,
+        "target": "1a3f5a26-d0f6-45d7-9de1-b52aae7d4ed2",
+        "targetHandle": null,
+        "id": "reactflow__edge-302a5f01-c000-4cc8-b692-7bfddd779219-1a3f5a26-d0f6-45d7-9de1-b52aae7d4ed2"
+      },
+      {
+        "source": "302a5f01-c000-4cc8-b692-7bfddd779219",
+        "sourceHandle": null,
+        "target": "041c29a5-63e8-49da-9f36-8f5487206965",
+        "targetHandle": null,
+        "id": "reactflow__edge-302a5f01-c000-4cc8-b692-7bfddd779219-041c29a5-63e8-49da-9f36-8f5487206965"
+      },
+      {
+        "source": "dcfbae6f-c68f-4ba1-909d-cb6f07226540",
+        "sourceHandle": null,
+        "target": "a9a82355-f8bc-4105-a556-d8ee716068fe",
+        "targetHandle": null,
+        "id": "reactflow__edge-dcfbae6f-c68f-4ba1-909d-cb6f07226540-a9a82355-f8bc-4105-a556-d8ee716068fe"
+      },
+      {
+        "source": "dcfbae6f-c68f-4ba1-909d-cb6f07226540",
+        "sourceHandle": null,
+        "target": "946f7154-0cf4-4089-ac25-c7d087c1d773",
+        "targetHandle": null,
+        "id": "reactflow__edge-dcfbae6f-c68f-4ba1-909d-cb6f07226540-946f7154-0cf4-4089-ac25-c7d087c1d773"
+      },
+      {
+        "source": "5575aec1-e708-474f-ba3c-f3e6fbffde7f",
+        "sourceHandle": null,
+        "target": "a57c5f93-43ce-42a3-b613-af405e4ca30c",
+        "targetHandle": null,
+        "id": "reactflow__edge-5575aec1-e708-474f-ba3c-f3e6fbffde7f-a57c5f93-43ce-42a3-b613-af405e4ca30c",
+        "selected": false
+      },
+      {
+        "source": "5575aec1-e708-474f-ba3c-f3e6fbffde7f",
+        "sourceHandle": null,
+        "target": "8cfec4b0-4eba-4529-93a1-3807274e7382",
+        "targetHandle": null,
+        "id": "reactflow__edge-5575aec1-e708-474f-ba3c-f3e6fbffde7f-8cfec4b0-4eba-4529-93a1-3807274e7382"
+      },
+      {
+        "source": "42ffad7c-84ee-4027-96ef-43e8a1ef755a",
+        "sourceHandle": null,
+        "target": "05ebd88e-f2a7-4c6b-922f-644df85c241c",
+        "targetHandle": null,
+        "id": "reactflow__edge-42ffad7c-84ee-4027-96ef-43e8a1ef755a-05ebd88e-f2a7-4c6b-922f-644df85c241c"
+      },
+      {
+        "source": "42ffad7c-84ee-4027-96ef-43e8a1ef755a",
+        "sourceHandle": null,
+        "target": "3168a34b-a92d-4c51-86a9-d97385c4c3da",
+        "targetHandle": null,
+        "id": "reactflow__edge-42ffad7c-84ee-4027-96ef-43e8a1ef755a-3168a34b-a92d-4c51-86a9-d97385c4c3da"
+      },
+      {
+        "source": "start",
+        "sourceHandle": null,
+        "target": "5575aec1-e708-474f-ba3c-f3e6fbffde7f",
+        "targetHandle": null,
+        "id": "reactflow__edge-start-5575aec1-e708-474f-ba3c-f3e6fbffde7f"
+      },
+      {
+        "source": "start",
+        "sourceHandle": null,
+        "target": "42ffad7c-84ee-4027-96ef-43e8a1ef755a",
+        "targetHandle": null,
+        "id": "reactflow__edge-start-42ffad7c-84ee-4027-96ef-43e8a1ef755a"
+      },
+      {
+        "source": "5b44b452-e207-495c-8c2f-4edad68c4290",
+        "sourceHandle": null,
+        "target": "ca2220b0-6f4b-4b58-a623-048d79b123f4",
+        "targetHandle": null,
+        "id": "reactflow__edge-5b44b452-e207-495c-8c2f-4edad68c4290-ca2220b0-6f4b-4b58-a623-048d79b123f4"
+      },
+      {
+        "source": "5b44b452-e207-495c-8c2f-4edad68c4290",
+        "sourceHandle": null,
+        "target": "5dd47699-f114-4b03-a86c-7b633d3ee15e",
+        "targetHandle": null,
+        "id": "reactflow__edge-5b44b452-e207-495c-8c2f-4edad68c4290-5dd47699-f114-4b03-a86c-7b633d3ee15e"
+      },
+      {
+        "source": "ca2220b0-6f4b-4b58-a623-048d79b123f4",
+        "sourceHandle": null,
+        "target": "29a2ddec-a645-44bc-8ece-65045fdee14e",
+        "targetHandle": null,
+        "id": "reactflow__edge-ca2220b0-6f4b-4b58-a623-048d79b123f4-29a2ddec-a645-44bc-8ece-65045fdee14e"
+      },
+      {
+        "source": "ca2220b0-6f4b-4b58-a623-048d79b123f4",
+        "sourceHandle": null,
+        "target": "f3a072c2-df39-40f1-b9ea-cb08c43efba9",
+        "targetHandle": null,
+        "id": "reactflow__edge-ca2220b0-6f4b-4b58-a623-048d79b123f4-f3a072c2-df39-40f1-b9ea-cb08c43efba9"
+      },
+      {
+        "source": "ca2220b0-6f4b-4b58-a623-048d79b123f4",
+        "sourceHandle": null,
+        "target": "f36d230c-4c92-489a-82da-36666bdfebda",
+        "targetHandle": null,
+        "id": "reactflow__edge-ca2220b0-6f4b-4b58-a623-048d79b123f4-f36d230c-4c92-489a-82da-36666bdfebda"
+      },
+      {
+        "source": "ca2220b0-6f4b-4b58-a623-048d79b123f4",
+        "sourceHandle": null,
+        "target": "e59c5a31-65b9-4266-8e66-d665b8a73b0d",
+        "targetHandle": null,
+        "id": "reactflow__edge-ca2220b0-6f4b-4b58-a623-048d79b123f4-e59c5a31-65b9-4266-8e66-d665b8a73b0d"
+      },
+      {
+        "source": "29a2ddec-a645-44bc-8ece-65045fdee14e",
+        "sourceHandle": null,
+        "target": "e2c682af-30bc-48e4-9ae3-5a63774da567",
+        "targetHandle": null,
+        "id": "reactflow__edge-29a2ddec-a645-44bc-8ece-65045fdee14e-e2c682af-30bc-48e4-9ae3-5a63774da567"
+      },
+      {
+        "source": "e59c5a31-65b9-4266-8e66-d665b8a73b0d",
+        "sourceHandle": null,
+        "target": "e2c682af-30bc-48e4-9ae3-5a63774da567",
+        "targetHandle": null,
+        "id": "reactflow__edge-e59c5a31-65b9-4266-8e66-d665b8a73b0d-e2c682af-30bc-48e4-9ae3-5a63774da567"
+      }
+    ],
+    "name": "Default",
+    "id": 1
+  }
+]
